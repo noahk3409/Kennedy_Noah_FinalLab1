@@ -122,12 +122,11 @@ footer {
   background-repeat: no-repeat;
 
   background-size: 55vh; /* 55% of the viewport height */
-  background-position: 40px bottom;
+  background-position: 40px center;
 
   display: none;
 }
 
-#lightbox2 { background-image: url('../images/minecraft.png'); }
 
 .lightbox_close {
   position: relative;
